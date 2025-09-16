@@ -1,4 +1,4 @@
-his repository contains assignments and practice projects I have completed while studying and learning about Python, Google Earth Engine (GEE), GIS, and water/environmental data analysis.
+This repository contains assignments and practice projects I have completed while studying and learning about Python, Google Earth Engine (GEE), GIS, and water/environmental data analysis.
 
 
 The scripts here are primarily from coursework, tutorials, and as part of my self-learning process.
