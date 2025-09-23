@@ -3,7 +3,7 @@ This repository contains assignments and practice projects I have completed whil
 
 The scripts here are primarily from coursework, tutorials, and as part of my self-learning process.
 
-This repo is not intended to showcase  my learning journey as I improve my coding skills.
+This repo is intended to showcase  my learning journey as I improve my coding skills.
 
 🧪 What’s Inside
 
@@ -27,7 +27,7 @@ Exploring how remote sensing and GIS can support climate resilience and conserva
 
 🚀 Usage
 
-This repo is for educational purposes only. If you reuse or adapt any scripts, please check original sources or datasets for proper citation.
+This repo is for educational purpose
 
 📬 Contact
 
