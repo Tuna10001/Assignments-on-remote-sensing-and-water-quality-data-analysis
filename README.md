@@ -1,7 +1,7 @@
 This repository contains assignments and practice projects I have completed while studying and learning about Python, Google Earth Engine (GEE), GIS, and water/environmental data analysis.
 
 
-The scripts here are primarily from coursework, tutorials, and as part of my self-learning process.
+The scripts here are mainly from my assignments during the courseworks, online tutorials, and as part of self-learning process.
 
 This repo is intended to showcase  my learning journey as I improve my coding skills.
 
